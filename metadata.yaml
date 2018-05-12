@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5663
     wikipedia: http://en.wikipedia.org/wiki/T._W._Rolleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45346#Sea-Spray--Verses-and-Translations
 gutenberg_issued: '2014-04-07'
 gutenberg_type: Text
 identifiers:
